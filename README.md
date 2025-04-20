@@ -1,5 +1,4 @@
-- 🎓 2nd-semester Computer Science student at Goethe University
-- 🤖 Passionate about Machine Learning and Deep Learning
+- 🎓 Computer Science student at Goethe University
 - 🎻 Violinist 
 
 <!---
